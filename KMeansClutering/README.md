@@ -14,4 +14,6 @@ K Means Clustering Proccess
 
 https://github.com/user-attachments/assets/548fe7de-6c26-4c22-8095-251c98d32ac6
 
+from the experiment, the maximum k-Means silhouette score is 0.88 with k = 7
+
 
